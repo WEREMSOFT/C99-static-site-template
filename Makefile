@@ -11,5 +11,5 @@ clean:
 
 all:
 	@echo Building site...
-	@gcc -E -x c $(SRC_D)main.html | grep "^[^#]" > $(OUT_D)index.html
+	@gcc -w -E -x c $(SRC_D)main.html | grep "^[^#]" > $(OUT_D)index.html
 	@echo done.
