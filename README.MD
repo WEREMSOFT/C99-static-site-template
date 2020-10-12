@@ -9,3 +9,5 @@ This technique is very flexible, it support any type of format. HTML, MD, any te
 You can compose any type of document with this.
 
 This was developed in linux, if you run it won windows, you are going to need CYGWIN or WSL.
+
+Check the generated [online site here](https://weremsoft.github.io/C99-static-site-template/)
